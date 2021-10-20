@@ -2,7 +2,9 @@
 
 ## Table of Content
 * Chapter 1: [perceptron algorithm](https://github.com/NinaM31/DeepLearning-series/blob/main/1.%20Perceptron.ipynb) 
-* Chapter 2: [Logistic Regression algorith]()
+* Chapter 2: [Activation Functions]()
+* Chapter 3: [Error Functions]()
+* Chapter 4: [Logistic Regression algorith]()
 
 ## My Notes
 | Topic | My Notes |
