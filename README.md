@@ -8,4 +8,4 @@
 | Topic | My Notes |
 |:-----:|:--------:|
 | Introduction to Neural Networks Summary | [PDF](https://github.com/NinaM31/DeepLearning-series/blob/main/PDF%20Notes/Introduction%20to%20Neural%20Network%20summary%20.pdf) |
-| Implementing Gradient Descent | [PDF]() |
+| Implementing Gradient Descent | [PDF](https://github.com/NinaM31/DeepLearning-series/blob/main/PDF%20Notes/Implementing%20Gradient%20Descent.pdf) |
